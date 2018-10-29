@@ -12,4 +12,4 @@ pale, ple -> true,
 pales, pale -> true,
 pale, bale -> true,
 pale, bake -> false
-Page No. 60 Question No. 5
+Page No. 60 Question No. 5.
