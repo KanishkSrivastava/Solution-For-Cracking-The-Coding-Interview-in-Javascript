@@ -6,4 +6,4 @@
 
 Given two strings, write a method to decide if one is a permutation of other.
 
-Page No. 60 Question No. 2
+Page No. 60 Question Number 2.
