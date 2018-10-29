@@ -1,6 +1,6 @@
 # Solutions Of Cracking The Coding Interview in Javascript
 
-#### Chapter 1 Arrays and Strings
+#### Chapter 1 Arrays and Strings.
 
 ### Palindrome Permutation
 
